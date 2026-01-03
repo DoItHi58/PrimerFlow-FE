@@ -76,6 +76,7 @@ Note: 백엔드는 FastAPI를 사용하며 OpenAPI(/docs)를 제공합니다. �
 * DESIGN_REQUESTED: 설계 요청 시작 (로딩 UI 표시)
 * DESIGN_SUCCEEDED: 결과 수신 완료 (캔버스 렌더링 시작)
 * DESIGN_FAILED: 요청 실패 (에러 배너 표시)
+
 #### 상호작용
 * VIEWPORT_CHANGED: 줌/팬 동작으로 보고 있는 구간 변경 시
 * PRIMER_SELECTED: 프라이머 클릭 시 (상세 패널 표시)
